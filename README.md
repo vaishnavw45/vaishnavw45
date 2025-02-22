@@ -12,10 +12,11 @@
   
   [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=kali,ubuntu,windows)](https://skillicons.dev)
+  
 
  
 
 ## Contacts
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vaishnav-wakchaure)
+  [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:vaishnavc2445@gmail.com)
   
