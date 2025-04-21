@@ -18,5 +18,5 @@
 
 ## Contacts
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vaishnav-wakchaure)
-  [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:vaishnavc2445@gmail.com)
+  [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mailto:vaishnav.wakchaure@gmail.com)
   
